@@ -110,6 +110,15 @@ http://www.brokenthorn.com/Resources/OSDev0.html
     _asm cli  ; 关闭中断
 ```
 
+还可以直接写成块的汇编代码：
+
+```C
+    _asm {
+        cli
+        hlt
+    }
+```
+
 
 
 
