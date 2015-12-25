@@ -1,9 +1,5 @@
 #写在前面
 
-Translating
-
-http://www.brokenthorn.com/Resources/OSDev0.html
-
 #介绍
 
 这是一本关系计算机和操作系统的书，旨在通过在一步步从无到有构建一个操作系统的过程中，体会操作系统的结构、概念以及系统层的编程。
@@ -137,3 +133,4 @@ http://www.brokenthorn.com/Resources/OSDev0.html
 
 接下来，我们将开始深入探讨操作系统到底为何物，同时书中还会介绍一些相当好用的工具。
 
+http://www.brokenthorn.com/Resources/OSDev0.html
