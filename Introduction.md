@@ -25,3 +25,15 @@ Learn C - A complete resource for a beginner
 Cprogramming.com
 Thinking in C++
 我个人看的是最早的 The C++ Programming Language ，但这本已经被淘汰了。
+
+###x86 汇编的知识
+80x86 汇编是一种底层编程语言。汇编语言有着与处理器指令一一对应的映射，所以汇编语言很适合硬件编程。
+因为汇编语言是一种底层语言，所以其比高级语言更复杂更难使用。因为这个，并且为了简化过程，我们只在必要的时候使用汇编语言。
+汇编语言是另一门需要看书来掌握的复杂语言。如果你不了解汇编，那么这个书单可能会帮到你：
+Assembly Language: Step by Step
+Art of Assembly
+我是通过 Assembly Language: Step by Step （非常好的入门书）和 Art of Assembly 来学习的。它们都是非常好的书。
+
+##开始吧
+以上就是你所需要知道的全部：其他的一切我都会在开发过程中教你。预先警告：从这里开始，我将不会解释 C 或者汇编语言的概念。但我仍然会解释你可能还不熟悉的新概念，比如 lgdt , 以及 sti, cli, but, cpuid 等等的使用。
+
