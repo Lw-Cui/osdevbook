@@ -5,3 +5,4 @@ Chinese version of Operating System Development Series [here](http://www.brokent
 
 某个操作系统开发教程的中文版。
 
+https://github.com/Hackeris/osdevbook/
